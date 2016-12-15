@@ -1,0 +1,23 @@
+{
+  "name": "gulp-adventure",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosflorencio/gulp-adventure.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosflorencio/gulp-adventure/issues"
+  },
+  "homepage": "https://github.com/marcosflorencio/gulp-adventure#readme"
+}
