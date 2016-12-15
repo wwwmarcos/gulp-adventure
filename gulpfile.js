@@ -1,10 +1,10 @@
-const gulp = require('gulp'),
-  concat = require('gulp-concat'),
-  stylus = require('gulp-stylus'),
-  browserSync = require('browser-sync'),
-  cssmin = require('gulp-cssmin'),
-  rename = require('gulp-rename'),
-  reload = browserSync.reload
+const gulp = require('gulp')
+const concat = require('gulp-concat')
+const stylus = require('gulp-stylus')
+const browserSync = require('browser-sync')
+const cssmin = require('gulp-cssmin')
+const rename = require('gulp-rename')
+const reload = browserSync.reload
 
 const paths = {
   src: {
